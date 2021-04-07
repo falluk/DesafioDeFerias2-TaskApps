@@ -1,4 +1,4 @@
-# DesafioDeFerias2-TaskApps
+# DesafioDeFerias2-TaskApp
 
 Nesse desafio a ideia é criar um app de tarefas com as seguintes funções: 
 
